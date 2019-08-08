@@ -34,14 +34,14 @@ POST http://localhost:8080/car
 Content-Type: application/json
 
 {
-  "model": "accord",
-  "price": "250000.00",
+  "model": "vitara",
+  "price": "134000.00",
   "colors": [
     "black",
     "red",
-    "blue"
+    "blue",
+    "white"
   ]
-
 }
 
 ###
