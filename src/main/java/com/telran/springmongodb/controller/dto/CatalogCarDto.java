@@ -16,4 +16,5 @@ public class CatalogCarDto {
     private String model;
     private List<String> colors;
     private BigDecimal price;
+
 }
